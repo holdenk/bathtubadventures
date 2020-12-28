@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome to my bath tub adventures blog!
 
-![Image of fast.ai logo](images/logo.png)
+## Bath Tubs Are Awesome
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Sadly hotels don't have bath tubs as often as one would hope, and even then figuring out if there are good bath tubs available is hit or miss. This blog will help you find places to visit with good bath tubs.
